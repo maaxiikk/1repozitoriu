@@ -3,4 +3,4 @@
 ### 3 Zagolovok
 #### 4 Zagolovok
 ##### 5 Zagolovok
-[README.md](https://github.com/maaxiikk/1repozitoriu/blob/main/README.md)
+[README.md](./maaxiikk/1repozitoriu/blob/main/README.md)
